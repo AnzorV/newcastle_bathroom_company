@@ -15,16 +15,16 @@ import img10 from '../assets/641438180_937093688882819_3537828339113545737_n.jpg
 
 export default function Projects(){
  const projects = [
-  { img: img1, title: 'Grey Marble Transformation', category: 'Full Renovation' },
-  { img: img2, title: 'Modern Wet Room', category: 'Shower Systems' },
-  { img: img3, title: 'Classic Bathroom Suite', category: 'Full Renovation' },
-  { img: img4, title: 'Bespoke Tiling & Vanity', category: 'Tiling & Finishing' },
-  { img: img5, title: 'Teal & Brass Ensuite', category: 'Ensuite' },
-  { img: img6, title: 'Wood Effect Feature', category: 'Tiling & Finishing' },
-  { img: img7, title: 'Contemporary Walk-in', category: 'Shower Systems' },
-  { img: img8, title: 'Full Luxury Renovation', category: 'Full Renovation' },
+  { img: img1, title: 'Luxury Walk-in Shower', category: 'Shower Systems' },
+  { img: img2, title: 'Modern Wet Room Design', category: 'Shower Systems' },
+  { img: img3, title: 'Classic Bathroom Installation', category: 'Full Renovation' },
+  { img: img4, title: 'Bespoke Tiling & Vanity Unit', category: 'Tiling & Finishing' },
+  { img: img5, title: 'Contemporary Ensuite Refresh', category: 'Ensuite' },
+  { img: img6, title: 'Wood-Effect Feature Wall', category: 'Tiling & Finishing' },
+  { img: img7, title: 'Minimalist Walk-in Suite', category: 'Shower Systems' },
+  { img: img8, title: 'Premium Full Renovation', category: 'Full Renovation' },
   { img: img9, title: 'Quality Plumbing & Finish', category: 'Installation' },
-  { img: img10, title: 'Modern Main Bathroom', category: 'Full Renovation' }
+  { img: img10, title: 'Modern Family Bathroom', category: 'Full Renovation' }
  ];
 
  return <>
